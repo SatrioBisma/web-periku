@@ -1,162 +1,135 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "SELAMAT DATANG",
+    "paragraph": "Raih hasil panen melimpah dan kualitas luar biasa dengan perangkat Periku ! Dengan teknologi canggih, Periku memaksimalkan efisiensi sumber daya Anda"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Kami membantu petani meningkatkan efisiensi pertanian dengan teknologi Internet of Things (IoT). Dengan sensor dan perangkat terkoneksi, kami memberikan pemantauan kondisi tanah secara real-time. Petani dapat dengan mudah mengakses informasi tentang suhu, kelembaban tanah, pH tanah, suhu udara, kelembaban udara, dan kecepatan angin. Hal ini membantu dalam pengambilan keputusan yang tepat dan responsif. Pendekatan ini meningkatkan efisiensi penggunaan sumber daya seperti air dan pupuk, serta membantu meningkatkan kualitas dan kuantitas produksi pertanian.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Meningkatkan Efisiensi Penggunaan Sumber Daya",
+      "Meningkatkan Ketahanan Pangan",
+      "Meningkatkan Produktivitas Pertanian"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Mengurangi Dampak Lingkungan",
+      "Mendukung Keputusan Pertanian yang Informatif",
+      "Memperkuat Kesejahteraan Petani"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Perakitan Alat",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Panen Coy",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Aku Menyerah",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Itu ada kodok",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Yang ini enak pak",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Ini Bawang...",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-language",
+      "name": "Mengurangi Ketergantungan pada Inspeksi Manual",
+      "text": "Menggunakan IoT untuk monitoring kondisi tanah mengurangi kebutuhan untuk pemeriksaan fisik yang sering dan intensif tenaga."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Efisiensi Penggunaan Sumber Daya",
+      "text": "Informasi tanah yang spesifik memungkinkan petani mengoptimalkan penggunaan air, pupuk, dan pestisida, menghemat biaya, dan mengurangi dampak lingkungan."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Deteksi Dini Masalah Tanah dan Tanaman",
+      "text": "Sistem ini dapat cepat mengidentifikasi masalah seperti kekurangan nutrisi, perubahan pH, atau kelebihan salinitas sebelum mereka berdampak negatif pada tanaman."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Pengambilan Keputusan yang Berbasis Data",
+      "text": "Solusi ini memungkinkan petani untuk membuat keputusan berbasis data yang akurat mengenai waktu penanaman, irigasi, dan pemupukan, berdasarkan kondisi tanah aktual yang termonitor secara real-time."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Peningkatan Produktivitas dan Kualitas Tanaman",
+      "text": "Monitoring kondisi tanah secara real-time memungkinkan untuk pengelolaan lingkungan tumbuh yang ideal, yang dapat meningkatkan produktivitas serta kualitas produk pertanian. "
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"IoT memberi saya kepuasan karena saya tahu IoT menerapkan metode terbaik untuk pertanian saya. Ini dapat rasa aman karena bisa memantau kondisi lahan dari mana saja.\"",
+      "name": "Pak Bandi"
     },
     {
       "img": "img/testimonials/02.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "Pak Farhan"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Sensor IoT memberi saya data akurat tentang kondisi tanah, seperti pH dan nutrisi, yang membantu saya dalam mengaplikasikan pupuk secara lebih tepat dan efektif.\"",
+      "name": "Pak Soleh"
     },
     {
       "img": "img/testimonials/04.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "Pak Semarmin"
     },
     {
       "img": "img/testimonials/05.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "Pak Sujiman"
     },
     {
       "img": "img/testimonials/06.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "Pak Tuhar"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Lutfia Arum Naflasari",
+      "job": "COO"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Satrio Bisma",
+      "job": "CEO"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Luthfiyyah Istiqomah ",
+      "job": "CFO"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
+    "address": "Jl. Yudistira No.05, Pendrikan Kidul, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50131",
+    "phone": "+6281228745131",
+    "email": "perikudinus@gmail.com",
+    "whatsapp": "https://wa.me/081228745131",
+    "instagram": "https://www.instagram.com/periku.id/",
     "youtube": "youtube.com"
   },
   "Features": [
